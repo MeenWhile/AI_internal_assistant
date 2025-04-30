@@ -31,4 +31,3 @@ docker build -t internal-ai-assistant .
 ```bash
 docker run --env-file .env -p 8000:8000 internal-ai-assistant
 ```
-docker run --env-file .env -p 8000:8000 internal-ai-assistant
